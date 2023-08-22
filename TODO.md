@@ -1,0 +1,5 @@
+- feeling adventurous vs feeling safe
+- a personal assistant that can help you remember your favorite food
+  - if you prefer nigiri, etc, it will scan through the j-restaurants with the best nigira
+  - Instead of writing a review to let them know your personal preference (which they may or may not read, require parser to do it), you can just tell your personal assistant
+    - 打分系统和review, 还需要写parser来建立起你对这个菜肴和餐厅的反应
