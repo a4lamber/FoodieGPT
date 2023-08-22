@@ -1,5 +1,9 @@
-- feeling adventurous vs feeling safe
-- a personal assistant that can help you remember your favorite food
-  - if you prefer nigiri, etc, it will scan through the j-restaurants with the best nigira
-  - Instead of writing a review to let them know your personal preference (which they may or may not read, require parser to do it), you can just tell your personal assistant
-    - 打分系统和review, 还需要写parser来建立起你对这个菜肴和餐厅的反应
+# [TO-DO]
+
+
+- [ ] replace manual handling msgs with auto-managed ones `from langchain.memory import StreamlitChatMessageHistory`
+- [ ] make an example `data.csv` file to store user preference for food and restaurant. I am thinking a column of restaurant and another column of scale.
+- [ ] add in a csv drop in UI for the user to upload their own csv. Add it to Buffer memory somehow.
+- [ ] add a surprise feature button. Once it's ticked it will randomly generate a surprise restaurant out of user's comfort zone.
+
+
