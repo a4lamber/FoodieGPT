@@ -5,20 +5,28 @@
 A personal assistant that can help you remember your favorite food and restaurants for personalized recommendation.
 
 
-## Installation
+## Installation & Usage (local)
 
 With `Python 3.8.10`, please run
 ```bash
 pip install -r requirements.txt
 ```
 
-## usage
-
 To run the module, please use
 ```bash
 streamlit run src/main.py 
 ```
+## Installation & Usage (Docker)
 
+To build the image, 
+```bash
+docker image build . --tag brave_hackathon:latest   
+```
+
+To run it on port 8501, please do
+```bash
+docker container run -p 8501:8501 brave_hackathon 
+```
 
 # Reference
 

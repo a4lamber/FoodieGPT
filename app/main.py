@@ -81,7 +81,7 @@ def main():
         st.markdown(
             "---\n"
             "## About Team 8\n"
-            "Adam, Nick, Jiaxin, Rick! \n"
+            "Adam, Nick, Jiaxin, Rick, Alessandro! \n"
         )
         st.markdown(
             "your pocket guide to the best restaurants in town 🍙\n"
